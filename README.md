@@ -1,7 +1,8 @@
-# Challenge1-BackEndONE
+# Practicando con Java - Challenge Conversor de Monedas
+
 Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 
-##Índice
+## Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
@@ -9,7 +10,7 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 *[Índice](#índice)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+*[Descripción del proyecto](#Descripción-del-proyecto)
 
 *[Estado del proyecto](#Estado-del-proyecto)
 
@@ -23,9 +24,33 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
-* [Licencia](#licencia)
+*[Licencia](#licencia)
 
 *[Conclusión](#conclusión)
+
+## Descripción del proyecto
+
+En este emocionante desafío de programación, te invitamos a construir tu propio Conversor de Monedas. Aprenderás a realizar solicitudes a una API de tasas de cambio, a manipular datos JSON y, finalmente, a filtrar y mostrar las monedas de interés. ¡Prepárate para una experiencia práctica y emocionante en el desarrollo Java!
+
+Los pasos para completar este desafío se detallarán a continuación y estarán disponibles en la sección adyacente:
+
+* Configuración del Ambiente Java
+* Creación del Proyecto
+* Consumo de la API
+* Análisis de la Respuesta JSON
+* Filtro de Monedas
+* Exibición de Resultados a los usuarios
+
+
+Vamos a trabajar con el sistema ágil de desarrollo, utilizando el Trello de la siguiente forma:
+
+La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
+En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
+En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
+Por fin, en la columna Concluido estarán los elementos ya concluidos.
+El Trello es una herramienta de uso individual para que puedas controlar el progreso de tus actividades, pero no será evaluada.
+
+
 
 ## Autores
 

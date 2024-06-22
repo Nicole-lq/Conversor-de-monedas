@@ -1,10 +1,10 @@
-# Practicando con Java: Challenge Conversor de Monedas
+# Practicando con Java Challenge Conversor de Monedas
 
 Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 
 ## Índice
 
-* [Practicando con Java: Challenge Conversor de Monedas](#Practicando-con-Java:-Challenge-Conversor-de-Monedas)
+* [Practicando con Java: Challenge Conversor de Monedas](#Practicando-con-Java-Challenge-Conversor-de-Monedas)
 
 * [Insignias](#insignias)
 

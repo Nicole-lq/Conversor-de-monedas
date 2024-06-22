@@ -51,6 +51,8 @@ Se trabajará con el sistema ágil de desarrollo, utilizando el Trello de la sig
 
 Trello es una herramienta de uso individual para controlar el progreso de las actividades.
 
+[<img src ="imagenes/trello.png"](https://trello.com/b/RU41cvaQ/conversor-de-moneda-challenge-one-java-back-end)
+
 ## Estado del proyecto
 
 

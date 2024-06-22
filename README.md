@@ -57,9 +57,9 @@ Trello es una herramienta de uso individual para controlar el progreso de las ac
 
 ## Tecnologías utilizads
 
-## [ExchangeRate-API]()
+## ExchangeRate-API
 
-![<img src= "imagenes/API.png">]( https://www.exchangerate-api.com)
+[<img src= "imagenes/API.png">](https://www.exchangerate-api.com)
 
 
 

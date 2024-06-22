@@ -4,7 +4,7 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Índice
 
-* [Practicando con Java - Challenge Conversor de Monedas](#Título-e-imagen-de-portada)
+* [Practicando con Java - Challenge Conversor de Monedas](#Practicando-con-Java-Challenge-Conversor-de-Monedas)
 
 * [Insignias](#insignias)
 

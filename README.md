@@ -2,6 +2,8 @@
 
 Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 
+## Insignias
+
 ## Índice
 
 * [Challenge Conversor de Monedas](#Challenge-Conversor-de-Monedas)
@@ -24,13 +26,14 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 * [Licencia](#licencia)
 
-* [Conclusión](#conclusión)
+* [Conclusiones](#conclusiones)
+
 
 ## Descripción del proyecto
 
 En este emocionante desafío de programación, te invitamos a construir tu propio Conversor de Monedas. Aprenderás a realizar solicitudes a una API de tasas de cambio, a manipular datos JSON y, finalmente, a filtrar y mostrar las monedas de interés. ¡Prepárate para una experiencia práctica y emocionante en el desarrollo Java!
 
-Los pasos para completar este desafío se detallarán a continuación y estarán disponibles en la sección adyacente:
+Los pasos para completar este desafío se detallarán a continuación:
 
 * Configuración del Ambiente Java
 * Creación del Proyecto
@@ -39,18 +42,32 @@ Los pasos para completar este desafío se detallarán a continuación y estarán
 * Filtro de Monedas
 * Exibición de Resultados a los usuarios
 
+Se trabajará con el sistema ágil de desarrollo, utilizando el Trello de la siguiente forma:
 
-Vamos a trabajar con el sistema ágil de desarrollo, utilizando el Trello de la siguiente forma:
+* La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
+* En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
+* En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
+* Por fin, en la columna Concluido estarán los elementos ya concluidos.
 
-La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
-En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
-En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
-Por fin, en la columna Concluido estarán los elementos ya concluidos.
-El Trello es una herramienta de uso individual para que puedas controlar el progreso de tus actividades, pero no será evaluada.
+Trello es una herramienta de uso individual para controlar el progreso de las actividades.
+
+## Estado del proyecto
 
 
+
+## Tecnologías utilizads
+
+# ExchangeRate-API
+
+[ExchangeRate-API] (https://www.exchangerate-api.com)
+
+[foto](https://drive.google.com/file/d/12VVgtZQjLDw0WFT-LUb3E6OBcUOszNrE/view?usp=share_link)
 
 ## Desarrolladora del proyecto
 
 | [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4" width=115><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 | :---: |
+
+## Licencia
+
+## Conclusiones

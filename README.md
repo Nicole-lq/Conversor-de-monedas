@@ -29,5 +29,5 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub> Nicole Lastra Quiroz</sub>] (https://github.com/Nicole-lq)|
+| [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4" width=115><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 | :---: |

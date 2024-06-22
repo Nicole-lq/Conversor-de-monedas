@@ -4,29 +4,27 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Índice
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+* [Practicando con Java - Challenge Conversor de Monedas](#Título-e-imagen-de-portada)
 
-*[Insignias](#insignias)
+* [Insignias](#insignias)
 
-*[Índice](#índice)
+* [Índice](#índice)
 
-*[Descripción del proyecto](#Descripción-del-proyecto)
+* [Descripción del proyecto](#Descripción-del-proyecto)
 
-*[Estado del proyecto](#Estado-del-proyecto)
+* [Estado del proyecto](#Estado-del-proyecto)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
+* [Acceso al proyecto](#acceso-proyecto)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
+* [Desarrolladora del proyecto](#Desarrolladora-del-proyecto)
 
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
+* [Licencia](#licencia)
 
-*[Licencia](#licencia)
-
-*[Conclusión](#conclusión)
+* [Conclusión](#conclusión)
 
 ## Descripción del proyecto
 
@@ -52,7 +50,7 @@ El Trello es una herramienta de uso individual para que puedas controlar el prog
 
 
 
-## Autores
+## Desarrolladora del proyecto
 
 | [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4" width=115><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 | :---: |

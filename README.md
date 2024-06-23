@@ -59,15 +59,16 @@ La interfaz de usuario se puede apreciar a continuación:
 
 ## Estado del proyecto
 
-El proyecto está en una fase de desarrollo activa. Actualmente, se han implementado las siguientes funcionalidades:
+Si bien el proyecto cumple con todos los aspectos del Challenge de Alura Latam y ORACLE ONE de la ruta Back-End, se considera en fase de desarrollo activo por parte de la desarrolladora, esto para efectos de aprendizaje personal y mejora contínua.
 
+Actualmente, se han implementado las siguientes funcionalidades:
 * Configuración del entorno de desarrollo en Java.
 * Creación del proyecto con Maven.
 * Consumo de la API de tasas de cambio utilizando HttpClient.
 * Análisis de la respuesta JSON con GSON.
 * Conversión de monedas y presentación de resultados en la consola.
 
-Pendientes:
+Futuros desafíos personales:
 * Mejora de la interfaz de usuario en la consola (este proyecto no incluye la etapa Front-End, pero eventualmente podría agregarse).
 * Adición de más monedas y sus respectivas pruebas unitarias.
 
@@ -82,7 +83,13 @@ La aplicación permite realizar conversiones entre diferentes monedas usando tas
 * Manejo de solicitudes HTTP y análisis de respuestas JSON.
 * Uso de GSON para deserializar datos JSON.
 
-Para una demostración, simplemente ejecuta la aplicación y sigue las instrucciones en la consola para seleccionar la conversión que deseas realizar.
+### Demostración 
+
+A continuación se presenta un video que sintetiza el proceso de desarrollo, implementación y prueba del proyecto.
+
+
+
+También se puede y ejecutar la aplicación de forma local, copiando todas las carpetas necesarias en las rutas correspondientes, y luego seguir las instrucciones en la consola para seleccionar la conversión que deseas realizar.
 
 ## Acceso al proyecto
 

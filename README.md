@@ -27,6 +27,8 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
   
+* [ExchangeRate API](#ExchangeRate-API)
+  
 * [Conclusiones](#conclusiones)
 
 * [Desarrollador](#Desarrollador)
@@ -85,11 +87,11 @@ La aplicación permite realizar conversiones entre diferentes monedas usando tas
 
 ### Demostración 
 
-A continuación se presenta un video que sintetiza el proceso de desarrollo, implementación y prueba del proyecto.
+A continuación se presenta un video que sintetiza el proceso de desarrollo, implementación y prueba del proyecto (al hacer click sobre la imagen se abrirá el video en la plataforma Youtube).
 
 [![](https://img.youtube.com/vi/3vpaPzChi10/maxresdefault.jpg)](https://youtu.be/3vpaPzChi10)
 
-También se puede y ejecutar la aplicación de forma local, copiando todas las carpetas necesarias en las rutas correspondientes, y luego seguir las instrucciones en la consola para seleccionar la conversión que deseas realizar.
+También se puede ejecutar la aplicación de forma local, con ayuda de un entorno como **IntelliJ IDEA**, copiando todas las carpetas necesarias en las rutas correspondientes, y luego seguir las instrucciones en la consola para seleccionar la conversión que se desea realizar.
 
 ## Acceso al proyecto
 
@@ -107,7 +109,7 @@ git clone https://github.com/Nicole-lq/Challenge1-BackEndONE.git
 * GSON
 * IntelliJ IDEA
 
-## ExchangeRate-API
+## ExchangeRate API
 
 Esta API recopila datos de tipo de cambio de múltiples bancos centrales y fuentes comerciales, y luego utiliza su propio algoritmo para combinar estos conjuntos de datos. Este proceso reduce el impacto de un cambio incorrecto de moneda proporcionado por una determinada fuente. LA API admite un código de moneda si se tienen al menos tres fuentes de datos para ella. Los datos se actualizan cada hora para los usuarios con planes de pago, mientras que los datos de tipo de cambio gratuitos se actualizan una vez cada 24 horas. Cada respuesta de la API muestra una marca de fecha y la hora UNIX de la actualización más reciente de los datos que fueron utilizados. Los datos recopilados provienen de varios bancos centrales y fuentes comerciales de todo el mundo.
 

@@ -4,7 +4,7 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Insignias
 
-![GitHub License](https://img.shields.io/github/license/:user/:repo)
+![GitHub License](https://img.shields.io/github/license/Nicole-lq/Challenge1-BackEndONE)
 
 
 ## Índice

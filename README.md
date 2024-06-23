@@ -26,10 +26,11 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 * [Acceso al proyecto](#acceso-proyecto)
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
+  
+* [Conclusiones](#conclusiones)
 
 * [Desarrollador](#Desarrollador)
 
-* [Conclusiones](#conclusiones)
 
 
 ## Descripción del proyecto
@@ -110,13 +111,12 @@ Para obtener acceso a la API, basta con ingresar una direción de correo electr�
 [<img src= "imagenes/API.png">](https://www.exchangerate-api.com)
 
 
+## Conclusiones
+
+La aplicación de conocimientos es clave para consolidar el aprendizaje en todas las disciplinas, en especial en el caso de la programación. El desarrollo de este proyecto ha significado una excelente oportunidad para pone en práctica los conocimientos de Java y desarrollo backend aprendidos a lo largo de la formación del programa de Alura Latam y ORACLE ONE. El implementar el consumo de una API, manipular datos JSON y manejar solicitudes HTTP son habilidades fundamentales en el desarrollo moderno, tanto como el uso de herramientas de gestión ágil (Trello), para la organización y seguimiento de proyectos, lo que hace de este desafío, una gran instancia de aprendizaje.
+
+
 
 ## Desarrollador
 
 | [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4"><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
-| :---: |
-
-
-## Conclusiones
-
-La aplicación de conocimientos es clave para consolidar el aprendizaje en todas las disciplinas, en especial en el caso de la programación. El desarrollo de este proyecto ha significado una excelente oportunidad para pone en práctica los conocimientos de Java y desarrollo backend aprendidos a lo largo de la formación del programa de Alura Latam y ORACLE ONE. El implementar el consumo de una API, manipular datos JSON y manejar solicitudes HTTP son habilidades fundamentales en el desarrollo moderno, tanto como el uso de herramientas de gestión ágil (Trello), para la organización y seguimiento de proyectos, lo que hace de este desafío, una gran instancia de aprendizaje.

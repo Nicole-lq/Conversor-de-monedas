@@ -6,7 +6,7 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ![GitHub License](https://img.shields.io/github/license/Nicole-lq/Challenge1-BackEndONE)
 ![Maven Central Version](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-compiler-plugin)
-![GitHub Release](https://img.shields.io/github/v/release/Nicole-lq/Challenge1-BackEndONE)
+![GitHub Release](https://img.shields.io/github/v/release/Nicole-lq/Challenge1-BackEndONE/tree/main)
 
 
 ## Índice

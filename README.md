@@ -36,9 +36,8 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Descripción del proyecto
 
-En este emocionante desafío de programación, te invitamos a construir tu propio Conversor de Monedas. Aprenderás a realizar solicitudes a una API de tasas de cambio, a manipular datos JSON y, finalmente, a filtrar y mostrar las monedas de interés. ¡Prepárate para una experiencia práctica y emocionante en el desarrollo Java!
-
-Los pasos para completar este desafío se detallarán a continuación:
+Este desafío consistía en crear un conversor de monedas, que por medio de solicitudes a una API, obtuviera las tasas de cambio actualizadas.
+Los pasos para completar el desafío se detallan a continuación:
 
 * Configuración del Ambiente Java
 * Creación del Proyecto
@@ -47,22 +46,53 @@ Los pasos para completar este desafío se detallarán a continuación:
 * Filtro de Monedas
 * Exibición de Resultados a los usuarios
 
-Se trabajará con el sistema ágil de desarrollo, utilizando el Trello de la siguiente forma:
+La modadlidad de trabajo se dió bajo el sistema ágil de desarrollo, por medio de la herramienta Trello, considerando las  siguientes etapas:
 
-* La columna Listos para iniciar presenta las tarjetas con elementos que aun no fueron desarrollados.
-* En la columna En Desarrollo estarán los elementos que estés desarrollando en el momento. Al iniciar una tarea, podrás mover la tarjeta que contiene dicha tarea para esta columna.
-* En la columna Pausado estarán los elementos que comenzaste a desarrollar, pero necesitaste parar por algún motivo.
-* Por fin, en la columna Concluido estarán los elementos ya concluidos.
+* "Listos para iniciar"
+* "En Desarrollo"
+* "Pausado"
+* "Concluido"
 
-Trello es una herramienta de uso individual para controlar el progreso de las actividades.
+La interfaz de usuario se puede apreciar a continuación:
 
 [<img src ="imagenes/trello.png">](https://trello.com/b/RU41cvaQ/conversor-de-moneda-challenge-one-java-back-end)
 
+
 ## Estado del proyecto
+
+El proyecto está en una fase de desarrollo activa. Actualmente, se han implementado las siguientes funcionalidades:
+
+* Configuración del entorno de desarrollo en Java.
+* Creación del proyecto con Maven.
+* Consumo de la API de tasas de cambio utilizando HttpClient.
+* Análisis de la respuesta JSON con GSON.
+* Conversión de monedas y presentación de resultados en la consola.
+
+Pendientes:
+* Mejora de la interfaz de usuario en la consola (este proyecto no incluye la etapa Front-End, pero eventualmente podría agregarse).
+* Adición de más monedas y sus respectivas pruebas unitarias.
 
 ## Características de la aplicación y demostración
 
-## Tecnologías utilizads
+La aplicación permite realizar conversiones entre diferentes monedas usando tasas de cambio actualizadas desde la API de ExchangeRate-API. 
+
+### Características principales:
+
+* Conversión desde pesos chilenos (CLP), a dólares estadounidenses (USD) y won surcoreano (KRW), así como su respectiva conversión inversa.
+* Interfaz de usuario en la consola que permite seleccionar la acción a realizar desde un menú de opciones.
+* Manejo de solicitudes HTTP y análisis de respuestas JSON.
+* Uso de GSON para deserializar datos JSON.
+
+Para una demostración, simplemente ejecuta la aplicación y sigue las instrucciones en la consola para seleccionar la conversión que deseas realizar.
+
+## Acceso al proyecto
+
+Puedes clonar este repositorio usando el siguiente comando:
+
+```sh
+git clone https://github.com/Nicole-lq/Challenge1-BackEndONE.git
+```
+
 
 ## ExchangeRate-API
 

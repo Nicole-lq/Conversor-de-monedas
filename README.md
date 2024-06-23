@@ -27,7 +27,7 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-* [Desarrolladora del proyecto](#Desarrolladora-del-proyecto)
+* [Desarrollador](#Desarrollador)
 
 * [Conclusiones](#conclusiones)
 

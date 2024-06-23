@@ -105,13 +105,15 @@ Esta API recopila datos de tipo de cambio de múltiples bancos centrales y fuent
 
 Cada solicitud HTTPS GET de la API, es descontada de la cuota permitida por el plan personal (en este caso se ha utilizado el formato gratuito). La API envía un correo de aviso cuando se ha utilizado el 75% y luego el 100% de la cuota disponible (también se puede ver el detalle del consumo en el sitio web de la API).
 
+Para obtener acceso a la API, basta con ingresar una direción de correo electrónico en el sitio web y seguir las instrucciones, como se muestra a continuación:
+
 [<img src= "imagenes/API.png">](https://www.exchangerate-api.com)
 
 
 
 ## Desarrollador
 
-| [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4" width=115><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
+| [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4"><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 | :---: |
 
 

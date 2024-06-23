@@ -119,4 +119,4 @@ La aplicación de conocimientos es clave para consolidar el aprendizaje en todas
 
 ## Desarrollador
 
-| [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4"><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
+[<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4"><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)

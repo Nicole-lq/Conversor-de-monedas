@@ -4,6 +4,9 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Insignias
 
+![GitHub License](https://img.shields.io/github/license/:user/:repo)
+
+
 ## Índice
 
 * [Challenge Conversor de Monedas](#Challenge-Conversor-de-Monedas)

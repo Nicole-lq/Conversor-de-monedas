@@ -5,6 +5,10 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 ## Insignias
 
 ![GitHub License](https://img.shields.io/github/license/Nicole-lq/Challenge1-BackEndONE)
+![Maven Central Version](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-compiler-plugin)
+![Maven Central Version](https://img.shields.io/maven-central/v/com.google.code.gson/gson)
+
+
 
 
 ## Índice

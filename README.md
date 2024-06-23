@@ -29,8 +29,6 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 * [Desarrolladora del proyecto](#Desarrolladora-del-proyecto)
 
-* [Licencia](#licencia)
-
 * [Conclusiones](#conclusiones)
 
 
@@ -93,8 +91,19 @@ Puedes clonar este repositorio usando el siguiente comando:
 git clone https://github.com/Nicole-lq/Challenge1-BackEndONE.git
 ```
 
+## Tecnologías utilizadas
+
+* Java 11+
+* Maven
+* HttpClient
+* GSON
+* IntelliJ IDEA
 
 ## ExchangeRate-API
+
+Esta API recopila datos de tipo de cambio de múltiples bancos centrales y fuentes comerciales, y luego utiliza su propio algoritmo para combinar estos conjuntos de datos. Este proceso reduce el impacto de un cambio incorrecto de moneda proporcionado por una determinada fuente. LA API admite un código de moneda si se tienen al menos tres fuentes de datos para ella. Los datos se actualizan cada hora para los usuarios con planes de pago, mientras que los datos de tipo de cambio gratuitos se actualizan una vez cada 24 horas. Cada respuesta de la API muestra una marca de fecha y la hora UNIX de la actualización más reciente de los datos que fueron utilizados. Los datos recopilados provienen de varios bancos centrales y fuentes comerciales de todo el mundo.
+
+Cada solicitud HTTPS GET de la API, es descontada de la cuota permitida por el plan personal (en este caso se ha utilizado el formato gratuito). La API envía un correo de aviso cuando se ha utilizado el 75% y luego el 100% de la cuota disponible (también se puede ver el detalle del consumo en el sitio web de la API).
 
 [<img src= "imagenes/API.png">](https://www.exchangerate-api.com)
 
@@ -105,6 +114,7 @@ git clone https://github.com/Nicole-lq/Challenge1-BackEndONE.git
 | [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4" width=115><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 | :---: |
 
-## Licencia
 
 ## Conclusiones
+
+La aplicación de conocimientos es clave para consolidar el aprendizaje en todas las disciplinas, en especial en el caso de la programación. El desarrollo de este proyecto ha significado una excelente oportunidad para pone en práctica los conocimientos de Java y desarrollo backend aprendidos a lo largo de la formación del programa de Alura Latam y ORACLE ONE. El implementar el consumo de una API, manipular datos JSON y manejar solicitudes HTTP son habilidades fundamentales en el desarrollo moderno, tanto como el uso de herramientas de gestión ágil (Trello), para la organización y seguimiento de proyectos, lo que hace de este desafío, una gran instancia de aprendizaje.

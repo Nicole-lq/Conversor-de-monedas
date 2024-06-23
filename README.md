@@ -10,10 +10,6 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 ![GitHub Release](https://img.shields.io/github/v/release/Nicole-lq/Challenge1-BackEndONE)
 
 
-
-
-
-
 ## Índice
 
 * [Challenge Conversor de Monedas](#Challenge-Conversor-de-Monedas)
@@ -65,7 +61,7 @@ Trello es una herramienta de uso individual para controlar el progreso de las ac
 
 ## Estado del proyecto
 
-
+## Características de la aplicación y demostración
 
 ## Tecnologías utilizads
 
@@ -75,7 +71,7 @@ Trello es una herramienta de uso individual para controlar el progreso de las ac
 
 
 
-## Desarrolladora del proyecto
+## Desarrollador
 
 | [<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4" width=115><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 | :---: |

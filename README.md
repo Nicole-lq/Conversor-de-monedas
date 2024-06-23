@@ -76,7 +76,7 @@ Futuros desafíos personales:
 
 La aplicación permite realizar conversiones entre diferentes monedas usando tasas de cambio actualizadas desde la API de ExchangeRate-API. 
 
-### Características principales:
+### Características principales
 
 * Conversión desde pesos chilenos (CLP), a dólares estadounidenses (USD) y won surcoreano (KRW), así como su respectiva conversión inversa.
 * Interfaz de usuario en la consola que permite seleccionar la acción a realizar desde un menú de opciones.
@@ -87,7 +87,7 @@ La aplicación permite realizar conversiones entre diferentes monedas usando tas
 
 A continuación se presenta un video que sintetiza el proceso de desarrollo, implementación y prueba del proyecto.
 
-
+[![](https://img.youtube.com/vi/3vpaPzChi10/maxresdefault.jpg)](https://youtu.be/3vpaPzChi10)
 
 También se puede y ejecutar la aplicación de forma local, copiando todas las carpetas necesarias en las rutas correspondientes, y luego seguir las instrucciones en la consola para seleccionar la conversión que deseas realizar.
 

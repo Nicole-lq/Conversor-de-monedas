@@ -1,4 +1,4 @@
-<img src="imagenes/logos.png" width="300">
+<img src="imagenes/logos.png" width="400">
 
 # Challenge Conversor de Monedas
 

@@ -2,7 +2,7 @@
   <img src="imagenes/logos.png" width="300">
 </p>
 
-<p align="center"> # Challenge Conversor de Monedas </p>
+# Challenge Conversor de Monedas
 
 Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 

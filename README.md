@@ -2,7 +2,7 @@
   <img src="imagenes/logos.png" width="300">
 </p>
 
-# Proyecto: Conversor de Monedas 
+# Conversor de Monedas 
 
 Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 
@@ -15,7 +15,7 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Índice
 
-* [Proyecto: Conversor de Monedas](#Proyecto:-Conversor-de-Monedas)
+* [Conversor de Monedas](#Conversor-de-Monedas)
 
 * [Insignias](#Insignias)
 

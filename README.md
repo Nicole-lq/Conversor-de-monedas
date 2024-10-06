@@ -15,7 +15,7 @@ Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Lat
 
 ## Índice
 
-* [Conversor de Monedas](#Proyecto:-Conversor-de-Monedas)
+* [Proyecto: Conversor de Monedas](#Proyecto:-Conversor-de-Monedas)
 
 * [Insignias](#Insignias)
 

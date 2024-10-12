@@ -4,7 +4,7 @@
 
 # Conversor de Monedas 
 
-Respositorio del primer desafío de la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
+Respositorio de proyecto generado para la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
 
 ## Insignias
 

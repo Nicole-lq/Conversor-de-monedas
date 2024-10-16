@@ -2,110 +2,105 @@
   <img src="imagenes/logos.png" width="300">
 </p>
 
-# Conversor de Monedas 
+# Currency Converter
 
-Respositorio de proyecto generado para la ruta "Desarrollador BackEnd" de Alura Latam y ORACLE ONE.
+Repository created for the "Backend Developer" track of Alura Latam and ORACLE ONE.
 
-## Insignias
+## Badges
 
 ![GitHub License](https://img.shields.io/github/license/Nicole-lq/Challenge1-BackEndONE)
 ![Maven Central Version](https://img.shields.io/maven-central/v/org.apache.maven.plugins/maven-compiler-plugin)
 ![GitHub Release](https://img.shields.io/github/v/release/Nicole-lq/Challenge1-BackEndONE?filter=v0.1.0-beta&display_name=tag)
 
+## Table of Contents
 
-## Índice
+* [Currency Converter](#Currency-Converter)
 
-* [Conversor de Monedas](#Conversor-de-Monedas)
+* [Badges](#Badges)
 
-* [Insignias](#Insignias)
+* [Table of Contents](#table-of-contents)
 
-* [Índice](#índice)
+* [Project Description](#Project-Description)
 
-* [Descripción del proyecto](#Descripción-del-proyecto)
+* [Project Status](#Project-Status)
 
-* [Estado del proyecto](#Estado-del-proyecto)
+* [Application Features and Demo](#Application-Features-and-Demo)
 
-* [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+* [Access to the Project](#access-project)
 
-* [Acceso al proyecto](#acceso-proyecto)
-
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Technologies Used](#technologies-used)
   
 * [ExchangeRate API](#ExchangeRate-API)
   
-* [Conclusiones](#conclusiones)
+* [Conclusions](#conclusions)
 
-* [Desarrollador](#Desarrollador)
+* [Developer](#Developer)
 
+## Project Description
 
+This challenge consisted of creating a currency converter that fetches updated exchange rates through an API. The steps for completing the challenge are detailed below:
 
-## Descripción del proyecto
+* Java Environment Setup
+* Project Creation
+* API Consumption
+* JSON Response Analysis
+* Currency Filtering
+* Display of Results to Users
 
-Este desafío consistía en crear un conversor de monedas, que por medio de solicitudes a una API, obtuviera las tasas de cambio actualizadas.
-Los pasos para completar el desafío se detallan a continuación:
+The project followed an agile development process using Trello, with the following stages:
 
-* Configuración del Ambiente Java
-* Creación del Proyecto
-* Consumo de la API
-* Análisis de la Respuesta JSON
-* Filtro de Monedas
-* Exibición de Resultados a los usuarios
+* "Ready to Start"
+* "In Development"
+* "Paused"
+* "Completed"
 
-La modadlidad de trabajo se dió bajo el sistema ágil de desarrollo, por medio de la herramienta Trello, considerando las  siguientes etapas:
+The user interface can be seen below:
 
-* "Listos para iniciar"
-* "En Desarrollo"
-* "Pausado"
-* "Concluido"
+[<img src="imagenes/trello.png">](https://trello.com/b/RU41cvaQ/conversor-de-moneda-challenge-one-java-back-end)
 
-La interfaz de usuario se puede apreciar a continuación:
+## Project Status
 
-[<img src ="imagenes/trello.png">](https://trello.com/b/RU41cvaQ/conversor-de-moneda-challenge-one-java-back-end)
+While the project meets all the requirements of the Alura Latam and ORACLE ONE Backend Developer Challenge, it is still considered in active development by the developer for personal learning and continuous improvement.
 
+The following functionalities have been implemented so far:
+* Java development environment setup.
+* Project creation with Maven.
+* API consumption for exchange rates using HttpClient.
+* JSON response analysis with GSON.
+* Currency conversion and display of results in the console.
 
-## Estado del proyecto
+Personal future challenges:
+* Improving the user interface in the console (this project does not include a Front-End phase, but it could be added eventually).
+* Adding more currencies and corresponding unit tests.
 
-Si bien el proyecto cumple con todos los aspectos del Challenge de Alura Latam y ORACLE ONE de la ruta Back-End, se considera en fase de desarrollo activo por parte de la desarrolladora, esto para efectos de aprendizaje personal y mejora contínua.
+## Application Features and Demo
 
-Actualmente, se han implementado las siguientes funcionalidades:
-* Configuración del entorno de desarrollo en Java.
-* Creación del proyecto con Maven.
-* Consumo de la API de tasas de cambio utilizando HttpClient.
-* Análisis de la respuesta JSON con GSON.
-* Conversión de monedas y presentación de resultados en la consola.
+The application allows conversions between different currencies using updated exchange rates from the ExchangeRate-API. 
 
-Futuros desafíos personales:
-* Mejora de la interfaz de usuario en la consola (este proyecto no incluye la etapa Front-End, pero eventualmente podría agregarse).
-* Adición de más monedas y sus respectivas pruebas unitarias.
+### Main Features
 
-## Características de la aplicación y demostración
+* Conversion from Chilean pesos (CLP) to US dollars (USD) and South Korean won (KRW), as well as their respective reverse conversions.
+* Console user interface that allows users to select actions from a menu.
+* Handling HTTP requests and analyzing JSON responses.
+* Using GSON to deserialize JSON data.
 
-La aplicación permite realizar conversiones entre diferentes monedas usando tasas de cambio actualizadas desde la API de ExchangeRate-API. 
+### Demo
 
-### Características principales
-
-* Conversión desde pesos chilenos (CLP), a dólares estadounidenses (USD) y won surcoreano (KRW), así como su respectiva conversión inversa.
-* Interfaz de usuario en la consola que permite seleccionar la acción a realizar desde un menú de opciones.
-* Manejo de solicitudes HTTP y análisis de respuestas JSON.
-* Uso de GSON para deserializar datos JSON.
-
-### Demostración 
-
-A continuación se presenta un video que sintetiza el proceso de desarrollo, implementación y prueba del proyecto (al hacer click sobre la imagen se abrirá el video en la plataforma Youtube).
+Below is a video that summarizes the development, implementation, and testing process of the project (clicking the image will open the video on YouTube).
 
 [![](https://img.youtube.com/vi/3vpaPzChi10/maxresdefault.jpg)](https://youtu.be/3vpaPzChi10)
 
-También se puede ejecutar la aplicación de forma local, con ayuda de un entorno como **IntelliJ IDEA**, copiando todas las carpetas necesarias en las rutas correspondientes, y luego seguir las instrucciones en la consola para seleccionar la conversión que se desea realizar.
+You can also run the application locally using an IDE like **IntelliJ IDEA**, by copying all the necessary folders to the appropriate paths, and then following the console instructions to select the desired conversion.
 
-## Acceso al proyecto
+## Access to the Project
 
-Puedes clonar este repositorio usando el siguiente comando:
+You can clone this repository using the following command:
 
 ```sh
 git clone https://github.com/Nicole-lq/Challenge1-BackEndONE.git
 ```
 
-## Tecnologías utilizadas
+## Technologies Used
 
 * Java 11+
 * Maven
@@ -115,22 +110,19 @@ git clone https://github.com/Nicole-lq/Challenge1-BackEndONE.git
 
 ## ExchangeRate API
 
-Esta API recopila datos de tipo de cambio de múltiples bancos centrales y fuentes comerciales, y luego utiliza su propio algoritmo para combinar estos conjuntos de datos. Este proceso reduce el impacto de un cambio incorrecto de moneda proporcionado por una determinada fuente. LA API admite un código de moneda si se tienen al menos tres fuentes de datos para ella. Los datos se actualizan cada hora para los usuarios con planes de pago, mientras que los datos de tipo de cambio gratuitos se actualizan una vez cada 24 horas. Cada respuesta de la API muestra una marca de fecha y la hora UNIX de la actualización más reciente de los datos que fueron utilizados. Los datos recopilados provienen de varios bancos centrales y fuentes comerciales de todo el mundo.
+This API gathers exchange rate data from multiple central banks and commercial sources, and then uses its own algorithm to combine these data sets. This process reduces the impact of an incorrect exchange rate provided by a particular source. The API supports a currency code if it has at least three data sources for it. The data is updated every hour for users with paid plans, while free exchange rate data is updated once every 24 hours. Each API response displays a timestamp and the UNIX time of the most recent data update that was used. The data is collected from various central banks and commercial sources worldwide.
 
-Cada solicitud HTTPS GET de la API, es descontada de la cuota permitida por el plan personal (en este caso se ha utilizado el formato gratuito). La API envía un correo de aviso cuando se ha utilizado el 75% y luego el 100% de la cuota disponible (también se puede ver el detalle del consumo en el sitio web de la API).
+Each HTTPS GET request to the API is deducted from the quota allowed by the personal plan (in this case, the free format has been used). The API sends a warning email when 75% and then 100% of the available quota has been used (you can also view consumption details on the API website).
 
-Para obtener acceso a la API, basta con ingresar una direción de correo electrónico en el sitio web y seguir las instrucciones, como se muestra a continuación:
+To gain access to the API, simply enter an email address on the website and follow the instructions, as shown below:
 
 [<img src= "imagenes/API.png">](https://www.exchangerate-api.com)
 
+## Conclusions
 
-## Conclusiones
+The application of knowledge is key to consolidating learning in all disciplines, especially in the case of programming. Developing this project has been an excellent opportunity to practice Java and backend development skills learned throughout the Alura Latam and ORACLE ONE program. Implementing API consumption, manipulating JSON data, and handling HTTP requests are fundamental skills in modern development, as well as using agile management tools (Trello) for project organization and tracking, making this challenge a great learning opportunity.
 
-La aplicación de conocimientos es clave para consolidar el aprendizaje en todas las disciplinas, en especial en el caso de la programación. El desarrollo de este proyecto ha significado una excelente oportunidad para pone en práctica los conocimientos de Java y desarrollo backend aprendidos a lo largo de la formación del programa de Alura Latam y ORACLE ONE. El implementar el consumo de una API, manipular datos JSON y manejar solicitudes HTTP son habilidades fundamentales en el desarrollo moderno, tanto como el uso de herramientas de gestión ágil (Trello), para la organización y seguimiento de proyectos, lo que hace de este desafío, una gran instancia de aprendizaje.
-
-
-
-## Desarrollador
+## Developer
 
 |[<img src="https://avatars.githubusercontent.com/u/84999245?s=96&v=4"><br><sub> Nicole Lastra Quiroz </sub>](https://github.com/Nicole-lq)|
 |---|
